@@ -19,6 +19,10 @@ As a design practitioner, David is interested in how creative practice can engag
 
 ## Changelog
 
+**October 2026. Version 0.3**
+* [Google Fonts Latin Core](https://github.com/googlefonts/glyphsets) Character Set completed
+* [Google Fonts Vietnamese](https://github.com/googlefonts/glyphsets) Character Set completed
+
 **September 2026. Version 0.2**
 * Base uppercase, lowercase, and numerals completed.
 
