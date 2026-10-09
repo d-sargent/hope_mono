@@ -1,6 +1,6 @@
 # Hope Mono
 
-_Hope Mono_ is a contemporary geometric sans serif designed for display use. The design adopts a wide overall width, avoiding the typical crushed monospace aesthetics on characters like the M and W. 
+_Hope Mono_ is a contemporary, low-contrast geometric sans serif designed for display use. Its wide overall proportions distinguish it from typical monospaced designs, minimising the 'crushed' appearance often seen in characters like M and W.
 
 ![Sample Image](documentation/HopeGitHubImages.png)
 ![Sample Image](documentation/HopeGitHubImages2.png)
