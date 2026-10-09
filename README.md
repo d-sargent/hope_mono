@@ -1,11 +1,13 @@
-# Hopium
+# Hope Mono
 
-_Hopium_ is a contemporary monospace sans serif designed for display use. Everything will be alright.
+_Hope Mono_ is a contemporary geometric sans serif designed for display use. The design adopts a wide overall width, avoiding the typical crushed monospace aesthetics on characters like the M and W. 
 
-![Sample Image](documentation/HopiumGitHubImages1.png)
-![Sample Image](documentation/HopiumGitHubImages2.png)
-![Sample Image](documentation/HopiumGitHubImages3.png)
-![Sample Image](documentation/HopiumGitHubImages4.png)
+![Sample Image](documentation/HopeGitHubImages.png)
+![Sample Image](documentation/HopeGitHubImages2.png)
+![Sample Image](documentation/HopeGitHubImages3.png)
+![Sample Image](documentation/HopeGitHubImages4.png)
+![Sample Image](documentation/HopeGitHubImages5.png)
+![Sample Image](documentation/HopeGitHubImages6.png)
 
 
 ## About the Designer
@@ -22,6 +24,7 @@ As a design practitioner, David is interested in how creative practice can engag
 **October 2026. Version 0.3**
 * [Google Fonts Latin Core](https://github.com/googlefonts/glyphsets) Character Set completed
 * [Google Fonts Vietnamese](https://github.com/googlefonts/glyphsets) Character Set completed
+* Name changed from _Hopium_ to _Hope Mono_
 
 **September 2026. Version 0.2**
 * Base uppercase, lowercase, and numerals completed.
